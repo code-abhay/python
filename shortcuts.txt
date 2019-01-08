@@ -1,0 +1,13 @@
+win + q     cortona search
+win + c     talk to cortona
+alt + z     geforce game
+win + a     notification
+ctr + shf   open as admi
+win + g     game bar
+win + i     setting
+win + u     display sett
+win + prnt  screenshot
+win+shf+s   capture part of screen
+ctr+win+arro	switch btwn wind
+
+04681846 rbl 
